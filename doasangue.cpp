@@ -22,7 +22,7 @@ int main(){
 		}
 	}
 	else{
-		printf("Com a sua idade(%i anos) nao e possivel doar sangue\n", idade);
+		printf("Com a sua idade(%i anos) nao e possivel doar sangue.\n", idade);
 		system("pause");
 	}
 
